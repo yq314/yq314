@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**yq314/yq314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Polyglot engineer intersted in all things about automation.
 
-Here are some ideas to get you started:
+In the past decade, I've been playing with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- Perl
+- Python
+- Java
+- Javascript
+- Typescript
+- Clojure
+- Golang
+- Rust
+
+![My Repo stats](https://github-readme-stats.vercel.app/api?username=yq314&show_icons=true&theme=vue-dark)
